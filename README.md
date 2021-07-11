@@ -2,10 +2,7 @@
 
 ## Contact me 📱
 
-1. [CSDN@程序员龙台](https://machen.blog.csdn.net/)
-2. [知乎@程序员龙台](https://www.zhihu.com/people/always-48-99)
-3. [掘金@程序员龙台](https://juejin.cn/user/835284568143799/posts)
-4. [微信@m7798432](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0Mjk5OQ==&mid=100007311&idx=1&sn=d325c1a509d6ee89469a1134ac0a8cf5&chksm=4fb7c6f778c04fe111e9cf52723675b8e8cbbbf9e848741a5d9c20620ff6c778b6613e021a34&scene=18#wechat_redirect)
+![](https://github.com/longtai94/House-Notes/blob/main/imgs/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%26%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 <!---
 JavaSouce/JavaSouce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

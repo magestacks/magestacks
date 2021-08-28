@@ -11,6 +11,6 @@ Hello，我是龙台，一名 Java 后端研发。在做一件喜欢的事情，
 
 <br/>
 
-[ 🌟 BugFix-Notes（Java 知识总结）](https://github.com/acmenlt/Bugfix-Notes) | &nbsp; [网站 BugFix.club](https://bugfix.club)
+[ 🌟 BugFix-Notes（Java 知识总结）](https://github.com/acmenlt/acmenlt.github.io) | &nbsp; [网站 BugFix.club](https://www.bugfix.club)
 
 - 程序员职场必备并发编程、中间件、设计模式、框架源码解析等知识（持续更新...）

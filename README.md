@@ -2,7 +2,7 @@
 
 ### Hi，我是小马哥。做一件喜欢的事情，并且还在坚持。
 
-[🌟《小马哥的代码实战课》知识星球](https://xiaomage.info/knowledge-planet/)
+[👉《小马哥的代码实战课》知识星球](https://xiaomage.info/knowledge-planet/)
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/acmenlt/count.svg)

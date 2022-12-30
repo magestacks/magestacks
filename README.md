@@ -2,7 +2,10 @@
 
 ### Hi，我是小马哥。做一件喜欢的事情，并且还在坚持。
 
-[👉《小马哥的代码实战课》知识星球](https://xiaomage.info/knowledge-planet/)
+---
+
+👉 [工作经验不满五年的程序员，如何通过项目提高个人技术能力？](https://www.yuque.com/magestack/public/programmer_progress?singleDoc#《小马哥的代码实战课》)
 
 ### Visitors
+
 ![Visitor Count](https://profile-counter.glitch.me/acmenlt/count.svg)

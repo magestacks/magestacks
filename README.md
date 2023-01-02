@@ -4,7 +4,7 @@
 
 ---
 
-👉 [工作经验不满五年程序员，如何通过项目提高个人技术能力？](https://www.yuque.com/magestack/public/programmer_progress?singleDoc#《小马哥的代码实战课》)
+👉 [工作经验不满五年程序员，如何通过项目提高个人技术能力？](https://www.yuque.com/magestack/public/programmer_progress)
 
 ### Visitors
 

@@ -1,4 +1,4 @@
-<img align="right" src="https://oss.open8gu.com/image-20240607091419101.png" />
+<img align="right" src="https://oss.open8gu.com/open8gu-gzh_5.png" />
 
 
 

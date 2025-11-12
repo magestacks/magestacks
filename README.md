@@ -12,4 +12,5 @@
 
 ### Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/acmenlt/count.svg)
+![views](https://komarev.com/ghpvc/?username=nageoffer&label=Visitors&color=blue&style=for-the-badge)
+

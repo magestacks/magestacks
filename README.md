@@ -12,5 +12,4 @@
 
 ### Visitors
 
-![views](https://komarev.com/ghpvc/?username=nageoffer&label=Visitors&color=blue&style=for-the-badge)
-
+![Visitors](https://komarev.com/ghpvc/?username=nageoffer&label=Visitors&color=blue&style=flat-square)

@@ -4,12 +4,14 @@
 
 ---
 
+
 👉 [记录在一个普通程序员的开源四年，热爱且执着！](https://nageoffer.com/planet/opensource/)
 
-<p>
-  <img width="400" src="https://streak-stats.demolab.com?user=magestacks" />
-</p>
+<br/>
 
+#### Technology stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,github,ai,md,apple,docker&theme=light)](https://skillicons.dev)
 
 ### 🐍 Contribution Snake
 
